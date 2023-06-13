@@ -1,0 +1,10 @@
+.fonte-azul {
+  color: blue;
+}
+pre {
+  font-size: 1.3em;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
